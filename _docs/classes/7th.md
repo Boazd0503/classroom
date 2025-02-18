@@ -1,4 +1,4 @@
----
+
 title: 7th Period
 subtitle: Computer Science I
 category: Classes
@@ -9,10 +9,8 @@ order: 6
 
 ## Agenda
 
-### 1. Journal Prompt
-
-What's the most interesting thing you learned last week? It could be from this class, another subject, a conversation, a YouTube video, or even something you discovered on your own. Explain what it was, how you learned it, and why you found it interesting.
-
+### 1. What's the most interesting thing you learned last week? It could be from this class, another subject, a conversation, a YouTube video, or even something you discovered on your own. Explain what it was, how you learned it, and why you found it interesting.
+the most interesting thing i had last week is having new friends
 ### 2. Vote for Marcus Johnson! Only 2 Days Left!
 
 Please click on the link or scan the QR code below to vote for Wagner's very own **Marcus Johnson** as the Army National Guard People's Choice Player for the Valero All Star basketball game!
@@ -68,11 +66,11 @@ Be sure to explain your choices and how they would help a team gain a competitiv
 
 | Shape    | Color | Count |
 | -------- | ----- | ----- |
-| Circle   |       |       |
-| Square   |       |       |
-| Hexagon  |       |       |
-| Triangle |       |       |
-| Octagon  |       |       |
+| Circle   |green      | 7      |
+| Square   |yellow       | 5      |
+| Hexagon  | broun      |  6     |
+| Triangle | purpal      |4       |
+| Octagon  |red       |  3     |
 
 </details>
 
