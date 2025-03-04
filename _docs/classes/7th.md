@@ -17,11 +17,11 @@ order: 6
 
 | Name    | Power | Challenge |
 | :------ | :---- | :-------- |
-| Zara    |       |           |
-| Aether  |       |           |
-| Thorne  |       |           |
-| Silver  |       |           |
-| Tangier |       |           |
+| Zara    |Telekenesis       |secure Building           |
+| Aether  |Weather Manipulation       |Prevent Assasination           |
+| Thorne  |Invisibility       |Underwater Rescue           |
+| Silver  |Mind Control       |Retrieve stolen Goods           |
+| Tangier |Shapeshifting       |Extract prisoner           |
 
 ### 2. SAT Prep
 
